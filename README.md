@@ -11,7 +11,7 @@ Always learning, always improving. 🚀
 
 ## 🚀 About Me
 
-I'm **Prakash Verma**, a dedicated Full-stack Developer currently pursuing my **M.Tech (Hybrid) from IIT Patna**.  
+I'm **Prakash Verma**, a dedicated Full-stack Developer currently pursuing my **M.Tech from IIT Patna**.  
 I have **1.8 months of professional experience** as an Associate Software Engineer, where I worked on production-level applications using modern JavaScript technologies.
 
 I'm also doing a **4-month full-stack internship**, actively working with:
