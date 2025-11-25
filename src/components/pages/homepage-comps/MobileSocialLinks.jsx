@@ -23,7 +23,7 @@ const MobileSocialLinks = () => {
                     <FaGithub size={20} /> GitHub 
                 </>
             ),
-            href: 'https://github.com/TheVermaVD'
+            href: 'https://github.com/prakashverma-dev/'
         },
         {
             id: 3,
